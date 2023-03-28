@@ -4,5 +4,7 @@ date: 2022-09-03
 tags:
   - JMeter
   - Performance testing
-description: Getting started with JMeter for performance testing purpose
+social_image: /media/meme-performance-defects-everywhere.png
+description: Getting started with JMeter for performance testing purposes
 ---
+T﻿BD
