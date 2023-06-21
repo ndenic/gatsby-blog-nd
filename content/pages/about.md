@@ -1,7 +1,7 @@
 ---
 title: About Me
 template: about-template
-profile_image: /media/nd.jpeg
+profile_image: /media/dsc_0190_50.jpg
 ---
 
 # Hi, I'm Nikola
