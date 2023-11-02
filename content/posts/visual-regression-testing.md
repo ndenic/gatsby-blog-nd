@@ -1,6 +1,6 @@
 ---
 title: Automated visual testing using BackstopJS
-date: 2022-09-03
+date: 2023-11-01 14:00
 tags:
   - BackstopJS
   - Visual testing
