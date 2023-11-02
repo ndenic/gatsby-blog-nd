@@ -12,6 +12,8 @@ description: Regardless of whether you see yourself as a test automation
 ---
 In the world of software development, ensuring the quality of a product is paramount. While automation testing tools are becoming increasingly popular, manual testing remains a crucial and fundamental component of the quality assurance process. In this blog, we will explore the basics of manual testing, its importance, techniques, best practices, and its role in delivering high-quality software.
 
+![](/media/0024.gif)
+
 ## **What is Manual Testing?**
 
 Manual testing is the process of evaluating a software application's functionality, features, and user interface by human testers. Testers execute test cases, explore the software's different aspects, and assess its performance without relying on automated test scripts.
@@ -64,8 +66,6 @@ Compatibility testing ensures that the software works correctly across different
 
 Performance testing includes load testing, stress testing, and scalability testing to assess how the software performs under various conditions and loads.
 
-
-
 ## **Manual Testing Best Practices**
 
 Effective manual testing requires adherence to certain best practices:
@@ -94,8 +94,6 @@ Include exploratory testing to uncover unexpected issues and assess the software
 
 Promote open communication between testers, developers, and stakeholders. Collaboration ensures a quicker resolution of issues.
 
-
-
 ## **Challenges in Manual Testing**
 
 While manual testing is indispensable, it is not without challenges:
@@ -111,8 +109,6 @@ Testers can make mistakes, leading to false positives or negatives. It's essenti
 ### 3. **Limited Scalability**
 
 Scaling manual testing can be challenging. As the software grows, more resources and time are required for testing.
-
-
 
 Manual testing remains an integral part of the quality assurance process, offering insights and feedback that automated tests alone cannot provide. By understanding the basics of manual testing, embracing best practices, and considering its role in the software development lifecycle, teams can ensure the delivery of high-quality software that meets user expectations.
 
