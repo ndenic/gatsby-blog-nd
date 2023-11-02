@@ -8,7 +8,7 @@ social_image: /media/backstopjs-logo.png
 description: It is easier to automate visual comparison than to spend your eyes
   looking for deviations that can sometimes be almost unnoticeable
 ---
-
+![](/media/backstopjs-logo.png)
 
 BackstopJS is an open-source visual regression testing tool designed for web developers and QA testers. It helps in automating the process of comparing and detecting visual differences between web page versions, making it an essential tool for maintaining consistent and high-quality web applications. Here's a more detailed explanation of what BackstopJS is and what it does:
 
