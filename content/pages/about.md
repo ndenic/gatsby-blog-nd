@@ -5,7 +5,7 @@ profile_image: /media/dsc_0190_50.jpg
 ---
 # Hi, I'm Nikola
 
-Welcome to the world of quality assurance and software testing! I'm a seasoned QA engineer, and within my company, I play the roles of tech core and mentor, guiding fellow enthusiasts in the dynamic realm of software testing.
+Welcome to the world of quality assurance and software testing! I'm a seasoned QA engineer, and within my company, I play the roles of tech lead and mentor, guiding fellow enthusiasts in the dynamic realm of software testing.
 
 This site is my platform to share my knowledge with a diverse audience. As my expertise grows, I aim to simplify complex topics and bring them closer to you. Thank you for being here – your presence means a lot as we delve into the exciting world of software testing.
 
